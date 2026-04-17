@@ -1,0 +1,9 @@
+# Ignorar ejecutables
+*.exe
+
+# Ignorar carpetas específicas
+bin/
+obj/
+
+# Ignorar archivos temporales
+*.log
