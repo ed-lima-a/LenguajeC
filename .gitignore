@@ -1,9 +1,16 @@
-# Ignorar ejecutables
+# Ejecutables
 *.exe
+*.out
 
-# Ignorar carpetas específicas
-bin/
-obj/
+# Objetos
+*.o
 
-# Ignorar archivos temporales
+# Logs
 *.log
+
+# Carpetas de build
+bin/
+build/
+
+# VS Code (opcional)
+.vscode/
