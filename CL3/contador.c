@@ -27,6 +27,6 @@ int main()
         ;
     printf("%.0f\n", nc);
     }
-
+    
     return 0;
 }

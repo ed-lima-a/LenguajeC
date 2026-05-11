@@ -9,7 +9,6 @@ int main()
 
     while (resultado = ((c = getchar()) != EOF)){
         //printf("Expresion vale: %d\n", resultado); //Ejercicio 1-6
-        putchar(c);
     }
     return 0;
 }
