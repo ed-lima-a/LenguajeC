@@ -1,0 +1,16 @@
+# Ejecutables
+*.exe
+*.out
+
+# Objetos
+*.o
+
+# Logs
+*.log
+
+# Carpetas de build
+bin/
+build/
+
+# VS Code (opcional)
+.vscode/
